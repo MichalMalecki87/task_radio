@@ -1,6 +1,6 @@
 .vscode/
 .idea/
-env/
+venv/
 *.sqlite3
 *.db
 __pycache__
