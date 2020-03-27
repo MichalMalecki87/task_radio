@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+env/
+*.sqlite3
+*.db
+__pycache__
+*.pyc
+*.log
+Task_Radio/local_settings.py
